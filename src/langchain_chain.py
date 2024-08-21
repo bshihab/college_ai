@@ -3,7 +3,6 @@ from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 from retriever import retriever
 
-# openai_api_key (REMOVE THIS BECAUSE IT IS NOT SECURE)
 chatgpt_api_key = "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"
 
 
