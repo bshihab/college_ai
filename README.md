@@ -10,4 +10,5 @@ Database of Colleges and Majors: Provides information on various colleges and th
 Current Status
 
 The core functionality of the AI chatbot is implemented.
+
 In Progress: Integrating a comprehensive database of colleges and majors to enhance the chatbot's accuracy and relevance. CSV file with colleges is a placeholder
