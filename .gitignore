@@ -1,0 +1,10 @@
+# Ignore .env files
+.env
+
+# If you have environment files with suffixes (e.g., .env.local, .env.dev)
+.env.*
+
+# Optional: ignore any other config or credential files
+# config.yaml
+# secrets.yaml
+
